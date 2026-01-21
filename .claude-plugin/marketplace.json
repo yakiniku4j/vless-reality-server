@@ -1,0 +1,14 @@
+{
+  "name": "xray-reality-skill",
+  "description": "Deploy and operate an Xray REALITY node (VLESS) on a VPS.",
+  "owner": {
+    "name": "yakiniku4j"
+  },
+  "plugins": [
+    {
+      "name": "xray-reality-skill",
+      "source": "./skills/xray-reality-skill",
+      "description": "Deploy and operate an Xray REALITY node (VLESS) on a VPS over SSH."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "xray-reality-skill",
+  "version": "1.0.0",
+  "description": "Deploy and operate an Xray REALITY node (VLESS) on a VPS over SSH.",
+  "license": "MIT",
+  "keywords": [
+    "vless",
+    "reality",
+    "xray",
+    "proxy",
+    "vps",
+    "deployment",
+    "sysadmin"
+  ]
+}
